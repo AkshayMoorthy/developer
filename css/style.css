@@ -600,7 +600,7 @@ display:none;}
     color: #b1b1b1;
   }
 }
-@media only screen and (min-device-width : 320px) and (max-device-width : 768px){
+@media only screen and (min-device-width : 320px) and (max-device-width : 612px){
 /* STYLES GO HERE */
 #bgim{
  display:none;}
@@ -610,6 +610,7 @@ display:none;}}
 display:none;}
 #about.inner{
 height:400px;}
+}
 
 
 
