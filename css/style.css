@@ -253,6 +253,8 @@ span.answer {
   font-weight: 700;
   padding-bottom: 20px;
   margin-bottom: 40px;
+  border-bottom: 1px solid #CEC8C8;
+  font-size: 11px;
   text-transform: uppercase;
 }
 
@@ -520,7 +522,7 @@ ul.toc {
  display:none;}
  
   #illustration {
-    overflow: none;
+    overflow: hidden;
   }
  
 }
@@ -599,17 +601,6 @@ display:none;}
   li.mobile-header a {
     color: #b1b1b1;
   }
-}
-@media only screen and (min-device-width : 320px) and (max-device-width : 612px){
-/* STYLES GO HERE */
-#bgim{
- display:none;}
-#illustration{
-display:none;}}
-#about p{
-display:none;}
-#about.inner{
-height:400px;}
 }
 
 
